@@ -1,0 +1,8 @@
+c:\users\ilyas hidayat rusdy\documents\visual studio 2010\Projects\Tugas2\Tugas2\obj\x86\Debug\Tugas2.Form1.resources
+c:\users\ilyas hidayat rusdy\documents\visual studio 2010\Projects\Tugas2\Tugas2\obj\x86\Debug\Tugas2.Properties.Resources.resources
+c:\users\ilyas hidayat rusdy\documents\visual studio 2010\Projects\Tugas2\Tugas2\obj\x86\Debug\Tugas2.csproj.GenerateResource.Cache
+c:\users\ilyas hidayat rusdy\documents\visual studio 2010\Projects\Tugas2\Tugas2\bin\Debug\Tugas2.exe
+c:\users\ilyas hidayat rusdy\documents\visual studio 2010\Projects\Tugas2\Tugas2\bin\Debug\Tugas2.pdb
+c:\users\ilyas hidayat rusdy\documents\visual studio 2010\Projects\Tugas2\Tugas2\obj\x86\Debug\Tugas2.exe
+c:\users\ilyas hidayat rusdy\documents\visual studio 2010\Projects\Tugas2\Tugas2\obj\x86\Debug\Tugas2.pdb
+C:\Users\Ilyas Hidayat Rusdy\documents\visual studio 2010\Projects\Tugas2\Tugas2\obj\x86\Debug\Tugas2.csprojResolveAssemblyReference.cache
